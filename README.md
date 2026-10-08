@@ -2,6 +2,8 @@
 
 # ✦ Vex / Weasel
 
+I'll still edit my github, once I get to it.
+
 I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
 
 **Age:** 18+
