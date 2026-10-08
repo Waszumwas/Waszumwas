@@ -18,11 +18,11 @@ You may call me **Vex**, **Weasel**, or honestly whatever you prefer.
 
 I'm not very talkative and can be pretty dry, so don't take it personally.
 
-* **Age:** 18+
-* **Pronouns:** Any
-* **C+H:** Welcome
+ **Age:** 18+
+ **Pronouns:** Any
+ **C+H:** Welcome
 
-* **Discord:** Vesqser
+ **Discord:** Vesqser
 
 <br>
 
