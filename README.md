@@ -8,8 +8,6 @@
 
 # ✦ Vex / Weasel
 
-> **page is still in progress**
-
 <br>
 
 ## ABOUT ME
