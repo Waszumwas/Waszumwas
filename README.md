@@ -1,39 +1,49 @@
 <div align="center">
 
 <!-- TOP DECORATION -->
-<img width="2048" height="921" alt="gold_decoration_top" src="https://github.com/user-attachments/assets/92404384-f4ed-4130-9bba-af11a261762b" />
+<img src="https://github.com/user-attachments/assets/30f1461a-b6a5-4736-80a2-82a4126ee98d"
+     width="850">
 
-<br>
+<br><br>
 
 # ✦ Vex / Weasel
 
-> **page is still in progress**
+I go by **Vex** and **Weasel**, both are completely fine,  
+just pick whatever you prefer.
 
 <br>
 
-## ABOUT ME
+**18+**　·　**Any Pronouns**　·　**C+H Welcome**
 
-You may call me **Vex**, **Weasel**, or honestly whatever you prefer.
+**Discord:** `Vesqser`
 
-I'm not very talkative and can be pretty dry, so don't take it personally.
+<br><br>
 
- **Age:** 18+
- **Pronouns:** Any
- **C+H:** Welcome
+---
 
- **Discord:** Vesqser
+### ✦ About Me
+
+A little more about me goes here.
+
+<br>
+
+### ✦ Interests
+
+`RDR2`　·　`Music`　·　`MHA`
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nucypp5vvo5hle4gkexvpnmpm4&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff">
-  </a>
-</p>
+### ✦ Before You Interact
 
-<br>
+**BYI:** Whispers are preferred.  
+I'm slower with public chat and may reply slowly.
+
+**DNI:** Hateful people · Drama
+
+<br><br>
 
 <!-- BOTTOM DECORATION -->
-<img width="2048" height="921" alt="gold_decoration_bottom" src="https://github.com/user-attachments/assets/6576a2b0-8e32-4618-be29-6c6784a7fe86" />
+<img src="https://github.com/user-attachments/assets/30f1461a-b6a5-4736-80a2-82a4126ee98d"
+     width="850">
 
 </div>
