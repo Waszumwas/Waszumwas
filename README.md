@@ -1,6 +1,6 @@
-<div align="center">
+<img width="1000" height="333" alt="1470-424749-pink-sakura" src="https://github.com/user-attachments/assets/d3378794-b979-45dc-b01e-0e230349e6c1" />
 
-<img width="1000" height="333" alt="1470-424749-pink-sakura" src="https://github.com/user-attachments/assets/a23cd15b-9d23-44f9-b7b1-dd9378d32760" />
+<div align="center">
 
 ## ✦ Vex / Weasel
 
