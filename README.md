@@ -2,8 +2,7 @@
 
 <!-- TOP DECORATION -->
 <img src="https://github.com/user-attachments/assets/30f1461a-b6a5-4736-80a2-82a4126ee98d"
-     width="850"
-     style="height: 90px; object-fit: fill;">
+     width="850">
 
 <br>
 
@@ -37,7 +36,6 @@ I'm not very talkative and can be pretty dry, so don't take it personally.
 
 <!-- BOTTOM DECORATION -->
 <img src="https://github.com/user-attachments/assets/30f1461a-b6a5-4736-80a2-82a4126ee98d"
-     width="850"
-     style="height: 90px; object-fit: fill;">
+     width="850">
 
 </div>
