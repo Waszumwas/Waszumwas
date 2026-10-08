@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✦ Vex / Weasel
 
 I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
@@ -7,6 +9,8 @@ I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
 * **C+H:** Welcome
 
 * **Discord:** Vesqser
+
+</div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
