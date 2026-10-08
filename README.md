@@ -1,6 +1,8 @@
 <div align="center">
 
-# ✦ Vex / Weasel
+<img width="1000" height="333" alt="1470-424749-pink-sakura" src="https://github.com/user-attachments/assets/a23cd15b-9d23-44f9-b7b1-dd9378d32760" />
+
+## ✦ Vex / Weasel
 
 I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
 
