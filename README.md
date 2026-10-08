@@ -5,7 +5,7 @@
 
 ## ABOUT ME
 
-You can call me **Vex**, **Weasel**, or honestly whatever you prefer.
+You may call me **Vex**, **Weasel**, or honestly whatever you prefer.
 
 I'm not very talkative and can be pretty dry, so don't take it personally.
 
