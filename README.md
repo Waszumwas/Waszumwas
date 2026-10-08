@@ -1,21 +1,21 @@
-
-<img src="https://github.com/user-attachments/assets/a75ed3e8-d5ff-4eb3-a445-aa69eec7e28b" width="900">
-
-<br>
-
 # ✦ Vex / Weasel
 
-> I go by **Vex** and **Weasel**, both are completely fine,  
-> just pick whatever you prefer.
+> **page is still in progress**
 
-<br>
+## ABOUT ME
 
-**18+**　•　**Any Pronouns**　•　**C+H Welcome**
+You may call me **Vex**, **Weasel**, or honestly whatever you prefer.
 
-**Discord:** `Vesqser`
+I'm not very talkative and can be pretty dry, so don't take it personally.
 
-<br>
+* **Age:** 18+
+* **Pronouns:** Any
+* **C+H:** Welcome
 
-<img src="https://github.com/user-attachments/assets/a75ed3e8-d5ff-4eb3-a445-aa69eec7e28b" width="900">
+* **Discord:** Vesqser
 
-</div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nucypp5vvo5hle4gkexvpnmpm4&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff">
+  </a>
+</p>
