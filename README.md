@@ -4,11 +4,11 @@
 
 I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
 
-* **Age:** 18+
-* **Pronouns:** Any
-* **C+H:** Welcome
+**Age:** 18+
+**Pronouns:** Any
+**C+H:** Welcome
 
-* **Discord:** Vesqser
+**Discord:** Vesqser
 
 </div>
 
