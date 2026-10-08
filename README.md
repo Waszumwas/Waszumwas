@@ -35,6 +35,6 @@ I'm not very talkative and can be pretty dry, so don't take it personally.
 <br>
 
 <!-- BOTTOM DECORATION -->
-<p align="right">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/911850a4-501b-44a2-846b-76f7febde1d1" width="150">
 </p>
