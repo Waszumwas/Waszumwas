@@ -1,17 +1,19 @@
+
 # ✦ Vex / Weasel
-  
+
 > **page is still in progress**
 
+## ABOUT ME
 
-I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
+You can call me **Vex**, **Weasel**, or honestly whatever you prefer.
 
-**Age:** 18+
-**Pronouns:** Any
-**C+H:** Welcome
+I'm not very talkative and can be pretty dry, so don't take it personally.
 
-**Discord:** Vesqser
+* **Age:** 18+
+* **Pronouns:** Any
+* **C+H:** Welcome
 
-</div>
+* **Discord:** Vesqser / Waszumwas
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
