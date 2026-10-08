@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- TOP DECORATION -->
-<img src="https://github.com/user-attachments/assets/30f1461a-b6a5-4736-80a2-82a4126ee98d"
-     width="850">
+<img width="2048" height="921" alt="gold_decoration_top" src="https://github.com/user-attachments/assets/92404384-f4ed-4130-9bba-af11a261762b" />
 
 <br>
 
@@ -35,7 +34,6 @@ I'm not very talkative and can be pretty dry, so don't take it personally.
 <br>
 
 <!-- BOTTOM DECORATION -->
-<img src="https://github.com/user-attachments/assets/30f1461a-b6a5-4736-80a2-82a4126ee98d"
-     width="850">
+<img width="2048" height="921" alt="gold_decoration_bottom" src="https://github.com/user-attachments/assets/6576a2b0-8e32-4618-be29-6c6784a7fe86" />
 
 </div>
