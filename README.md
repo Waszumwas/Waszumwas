@@ -1,4 +1,3 @@
-<img width="1000" height="333" alt="1470-424749-pink-sakura" src="https://github.com/user-attachments/assets/d3378794-b979-45dc-b01e-0e230349e6c1" />
 
 <div align="center">
 
