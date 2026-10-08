@@ -1,9 +1,8 @@
 <div align="center">
 
-## ✦ Vex / Weasel
-
 <img width="735" height="259" alt="3121-green" src="https://github.com/user-attachments/assets/8f52e59e-dc6c-46d9-862d-f38a91a53c42" />
 
+## ✦ Vex / Weasel
 
 I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
 
