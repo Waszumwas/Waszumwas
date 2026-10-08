@@ -1,16 +1,15 @@
-## Hi there 👋
+# ✦ Vex / Weasel
 
-<!--
-**Waszumwas/Waszumwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by Vex and Weasel, both are completely fine, just pick whatever you prefer.
 
-Here are some ideas to get you started:
+* **Age:** 18+
+* **Pronouns:** Any
+* **C+H:** Welcome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Discord:** Vesqser
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nucypp5vvo5hle4gkexvpnmpm4&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff">
+  </a>
+</p>
