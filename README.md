@@ -7,6 +7,7 @@
 <br>
 
 # ✦ Vex / Weasel
+page's still in progress, i only suck at it
 
 <br>
 
