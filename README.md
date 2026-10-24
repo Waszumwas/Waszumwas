@@ -30,8 +30,6 @@ You may call me **Vex**, **Weasel**, or honestly whatever you prefer.
 </p>
 
 <!-- BOTTOM DECORATION -->
-![](https://komarev.com/ghpvc/?username=Waszumwas&style=flat-square&color=yellow)
-
 ![](https://komarev.com/ghpvc/?username=Waszumwas&style=plastic)
 
 </div>
