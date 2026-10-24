@@ -7,7 +7,7 @@
 <br>
 
 # ✦ Vex / Weasel
-page's still in progress
+![](https://komarev.com/ghpvc/?username=Waszumwas&style=plastic)
 
 <br>
 
@@ -30,6 +30,6 @@ You may call me **Vex**, **Weasel**, or honestly whatever you prefer.
 </p>
 
 <!-- BOTTOM DECORATION -->
-![](https://komarev.com/ghpvc/?username=Waszumwas&style=plastic)
+page is still in progress
 
 </div>
