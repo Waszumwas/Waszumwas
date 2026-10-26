@@ -14,11 +14,9 @@
 
 𓆩 offline, even when online 𓆪
 
-⌁ learning to disappear quietly.
-
 ╭─── INTERESTS ───╮
 
-coding · music · late nights
+music · late nights
 
 ╰─────────────────╯
 
