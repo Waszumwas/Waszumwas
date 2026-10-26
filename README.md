@@ -1,8 +1,6 @@
-
 <div align="center">
-  <img width="2172" height="724" alt="Gotisch-ornamentaler Mondsichel-Divider" src="https://github.com/user-attachments/assets/d0db9fd6-4ac8-4295-8c7b-f526c52aa41e" />
+<img width="2172" height="724" alt="GITHUB Decoration" src="https://github.com/user-attachments/assets/c8569247-3a75-43c5-950e-fa1a6b0e60bb" />
 </div>
-
 
 <div align="center">
 
