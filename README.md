@@ -1,25 +1,32 @@
 <div align="center">
 
+```text
+          ⋆｡°✩ ── ☾ ── ✩°｡⋆
+      ╱╲───────⛧───────╱╲
+   ── ⋆ ── 𓆩 ♱ 𓆪 ── ⋆ ──
+      ──╱╲─── † ───╱╲──
+          ⋆ · ˚ ༘ ☽ ༘ ˚ · ⋆
+
+
 ✦ ─────── ⛧ ─────── ✦
 
-# WASZUMWAS
+          WEASEL
 
-*somewhere between lost & forgotten.*
+   somewhere between lost & forgotten.
 
-𓆩 offline, even when online 𓆪
+      𓆩 offline, even when online 𓆪
+      ⌁ learning to disappear quietly.
 
-⌁ learning to disappear quietly.
+          ╭─── INTERESTS ───╮
+             coding · music
+              late nights
+          ╰─────────────────╯
 
-### ╭─── INTERESTS ───╮
+   noise in my head, peace on my screen.
 
-coding · music · late nights
+   † 404: sense of belonging not found †
 
-### ╰─────────────────╯
-
-*noise in my head, peace on my screen.*
-
-† 404: sense of belonging not found †
-
-✦ ───────────────── ✦
+          ✦ ───────────────── ✦
+```
 
 </div>
