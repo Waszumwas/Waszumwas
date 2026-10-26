@@ -1,5 +1,10 @@
 
 <div align="center">
+  <img width="2172" height="724" alt="Gotisch-ornamentaler Mondsichel-Divider" src="https://github.com/user-attachments/assets/d0db9fd6-4ac8-4295-8c7b-f526c52aa41e" />
+</div>
+
+
+<div align="center">
 
 ✦ ─────── ⛧ ─────── ✦
 
@@ -22,3 +27,4 @@ coding · music · late nights
 † 404: sense of belonging not found †
 
 ✦ ───────────────── ✦
+
