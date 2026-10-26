@@ -8,9 +8,9 @@
 
 ✦ ─────── ⛧ ─────── ✦
 
-# WASZUMWAS
+# WEASEL
 
-*somewhere between lost & forgotten.*
+*ment to be forgotten.*
 
 𓆩 offline, even when online 𓆪
 
