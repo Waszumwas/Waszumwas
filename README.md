@@ -1,23 +1,25 @@
-✦ ──────────── ⛧ ──────────── ✦
+<div align="center">
 
-# WEASEL
+✦ ─────── ⛧ ─────── ✦
 
-somewhere between lost & forgotten.
+# WASZUMWAS
 
-─────── ⋆⋅☆⋅⋆ ───────
+*somewhere between lost & forgotten.*
 
-𓆩  STATUS  𓆪
-
-offline, even when online.
+𓆩 offline, even when online 𓆪
 
 ⌁ learning to disappear quietly.
 
-╭・INTERESTS
+### ╭─── INTERESTS ───╮
 
-│ music · late nights
+coding · music · late nights
 
-╰・NOISE IN MY HEAD, PEACE ON MY SCREEN
+### ╰─────────────────╯
+
+*noise in my head, peace on my screen.*
 
 † 404: sense of belonging not found †
 
-✦ ──────────── ⛧ ──────────── ✦
+✦ ───────────────── ✦
+
+</div>
