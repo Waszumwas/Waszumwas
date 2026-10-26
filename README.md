@@ -22,7 +22,5 @@ music · late nights
 
 *noise in my head, peace on my screen.*
 
-† 404: sense of belonging not found †
-
 ✦ ───────────────── ✦
 
