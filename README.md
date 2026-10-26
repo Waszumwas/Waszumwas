@@ -19,3 +19,5 @@ offline, even when online.
 ╰・NOISE IN MY HEAD, PEACE ON MY SCREEN
 
 † 404: sense of belonging not found †
+
+✦ ──────────── ⛧ ──────────── ✦
