@@ -5,6 +5,7 @@
 
 <div align="center">
 
+✦ ─────── ⛧ ─────── ✦
 
 # WEASEL
 
@@ -12,11 +13,9 @@
 
 𓆩 offline, even when online 𓆪
 
-╭─── INTERESTS ───╮
 
-music · late nights
 
-╰─────────────────╯
+✦ ─────── ⛧ ─────── ✦
 
 *noise in my head, peace on my screen.*
 
