@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="360" alt="Dark gothic thorn decoration" src="https://github.com/user-attachments/assets/e660712f-a35a-422f-951d-b2917a28af46" />
-</p>
+
 
 <div align="center">
 
