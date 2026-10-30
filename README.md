@@ -7,17 +7,29 @@
 
 ✦ ─────── ⛧ ─────── ✦
 
-# WEASEL
+# ✦ WEASEL
+![](https://komarev.com/ghpvc/?username=Waszumwas&style=plastic)
 
-*ment to be forgotten.*
+<br>
 
-𓆩 offline, even when online 𓆪
+## ABOUT ME
 
+You may call me **Weasel** or **Vex**
 
+**Age:** 18+<br>
+**Pronouns:** Any<br>
 
-✦ ─────── ⛧ ─────── ✦
+**Discord:** Vesqser 
 
-*noise in my head, peace on my screen.*
+<br>
 
-✦ ─────── ⛧ ─────── ✦
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nucypp5vvo5hle4gkexvpnmpm4&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true">
+  </a>
+</p>
 
+<!-- BOTTOM DECORATION -->
+page is still in progress
+
+</div>
