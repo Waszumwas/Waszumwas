@@ -30,6 +30,4 @@ You may call me **Weasel** or **Vex**
 </p>
 
 <!-- BOTTOM DECORATION -->
-page is still in progress
 
-</div>
