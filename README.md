@@ -12,6 +12,8 @@
 
 <br>
 
+✦ ─────── ⛧ ─────── ✦
+
 ## ABOUT ME
 
 You may call me **Weasel** or **Vex**
@@ -22,6 +24,8 @@ You may call me **Weasel** or **Vex**
 **Discord:** Vesqser 
 
 <br>
+
+✦ ─────── ⛧ ─────── ✦
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
